@@ -1,0 +1,23 @@
+.course-data {
+    height: 100%;
+    margin: 0px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.subject-form > div {
+    width: 100%;
+}
+
+.subject-form input {
+    height: 31px;
+    border-radius: 4px;
+    width: 100%;
+    font-size: 1em;
+    padding: 2px;
+    padding-left: 5px;
+    font-family: 'Roboto', 'Sans-Serif';
+    border: 0.5px solid black;
+}

@@ -1,0 +1,16 @@
+.card-link {
+    height: 100%;
+}
+
+a .card-link {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+a .card-link:hover  {
+    color: gray !important;
+}
+
+a .card-link:visited {
+    color: black;
+}

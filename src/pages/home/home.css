@@ -1,0 +1,38 @@
+#home {
+    padding-top: 150px;
+    text-align: center;
+}
+
+#home a {
+    text-decoration: none;
+    color: white;
+}
+
+#home a:visited {
+    color: white;
+}
+
+#home img {
+    width: 300px;
+}
+
+#home p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+#home .logo-container {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+
+.student-center-link {
+    padding: 30px;
+    background-color: blue;
+    width: 200px;
+    margin: auto;
+    font-weight: 900;
+}

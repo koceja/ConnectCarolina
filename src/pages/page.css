@@ -1,0 +1,35 @@
+.page {
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e9e8e8;
+    box-shadow: 1px 1px 7px;
+    min-height: 100vh;
+}
+
+.page h2 {
+    font-weight: normal;
+}
+
+.page h3 {
+    font-weight: normal;
+}
+
+.content {
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.has-side-items {
+    width: 65%;
+    margin-right: auto;
+}
+
+.side-items-container {
+    float: right;
+    width: 30%;
+    margin-left: auto;
+}

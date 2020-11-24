@@ -1,0 +1,59 @@
+.dashboard-card {
+    height: 100%;
+    color: black;
+    min-height: 150px;
+    box-shadow: 1px 1px 2px #616161;
+}
+
+.dashboard-card a {
+    text-decoration: none;
+}
+
+
+a:hover > .dashboard-card {
+    color: gray !important;
+}
+
+
+.text-only {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cover {
+    position: absolute;
+    background-color: white;
+}
+
+.cover:hover {
+    opacity: 0;
+}
+
+.boldy {
+    font-weight: bold;
+}
+
+#finances {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.holds-list ul {
+    padding: 0;
+}
+
+.holds-list li {
+    text-align: center;
+    list-style-type: none;
+}
+
+.todo-list ul {
+    padding: 0;
+}
+
+.todo-list li {
+    text-align: center;
+    list-style-type: none;
+}

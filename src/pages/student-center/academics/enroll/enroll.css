@@ -1,0 +1,15 @@
+.course-data {
+    height: 100%;
+    margin: 0px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#enroll-button {
+  text-align: center;
+}
+
+#enroll h3{
+  color: black
+}

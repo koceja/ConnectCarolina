@@ -1,0 +1,67 @@
+#navbar {
+    height: 50px;
+    padding-top: 10px;
+}
+
+.nav-list {
+    margin-top: 0px;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+    display: flex;
+    align-items: center; 
+    height: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.nav-home {
+    padding-left: 0px;
+    padding-right: 10px;
+    color: black;
+}
+
+
+
+.nav-auto {
+    flex: 1;
+
+}
+
+.nav-link {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+
+}
+
+.nav-link a {
+    font-size: 20px;
+
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link a:hover {
+    text-decoration: none;
+    text-shadow: 0.5px 0.5px 1px;
+}
+
+.logout {
+    color: black;
+    font-size: 20px;
+}
+
+.logout:hover {
+    text-decoration: none;
+    text-shadow: 0.5px 0.5px 1px;
+}
+
+.nav-selected a {
+    text-shadow: 0.5px 0.5px 1px;
+}
+
+.nav-home p {
+    font-size: 30px;
+}
